@@ -21,7 +21,7 @@ Sistema de reservas para restaurante que permite a los clientes seleccionar fech
 ## Instalación y uso
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tuusuario/sistema-reservas-restaurante.git
+git clone https://github.com/ITZ-NANO21-MC/Sistema-De-Reservas-Para-Restaurantes-Nano
 ```
 
 2. Abre el archivo `index.html` en cualquier navegador moderno
